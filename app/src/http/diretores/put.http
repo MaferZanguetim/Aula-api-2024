@@ -1,0 +1,6 @@
+PUT https://8080-maferzangue-aulaapi2024-sbmfmkyuyaq.ws-us108.gitpod.io/diretores/2
+Content-Type: application/json
+
+{
+    "nome": "Atualizando"
+}
